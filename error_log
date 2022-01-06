@@ -1,0 +1,4 @@
+[15-Jul-2021 17:21:28 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/animation-course-2021/contact-model.php on line 38
+[15-Jul-2021 17:22:47 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/animation-course-2021/contact-model.php on line 38
+[15-Jul-2021 17:23:24 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/animation-course-2021/contact-model.php on line 38
+[15-Jul-2021 17:25:08 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/animation-course-2021/contact-model.php on line 38
